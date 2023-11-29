@@ -3,5 +3,5 @@ sections:
   - title: Library
     contracts:
       - Roles
-  - subdirectory: roles
+  - subd deirectory: roles
 ---
